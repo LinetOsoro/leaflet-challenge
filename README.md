@@ -1,3 +1,6 @@
+
+Link to the earthquake map: https://linetosoro.github.io/leaflet-challenge/
+
 The United States Geological Survey(USGS) is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. 
 
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. The task at hand is to develop a way to visualize USGS data that will allow better education to the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
