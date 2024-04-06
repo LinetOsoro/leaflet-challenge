@@ -4,7 +4,7 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 Use both HTML and JavaScript
 
-Part 1: Create the Earthquake Visualization 
+Create the Earthquake Visualization 
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
@@ -35,4 +35,4 @@ https://earthquake.usgs.gov/fdsnws/event/1/
 
 https://stackoverflow.com/questions/40906118/is-it-possible-to-add-custom-html-to-leaflet-layer-groups-and-layers-control
 
-https://www.colorhexa.com/ff0000-to-ffff00 
+https://rgbcolorcode.com/color/669900 
