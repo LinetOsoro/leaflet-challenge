@@ -5,8 +5,8 @@ const COLOR_DEPTHS = [-10, 10, 30, 50, 70, 90];
 
 // Creating the map object
 let myMap = L.map("map", {
-    center: [39.8282, -98.5796],
-    zoom: 3
+    center: [40, -100],
+    zoom: 4
 });
 
 // Adding the tile layer
@@ -35,7 +35,7 @@ function eachFeature(feature, layer) {
 function getColor(depth) {
     let color = "";
     if (depth < COLOR_DEPTHS[0]) {
-        color = "#ffe6ff";
+        color = "#ffcccf";
     }else if (depth < COLOR_DEPTHS[1]) {
         color = "ff66ff";
     } else if (depth < COLOR_DEPTHS[2]) {
@@ -45,7 +45,7 @@ function getColor(depth) {
     } else if (depth < COLOR_DEPTHS[4]) {
         color = "#b300b3";
     } else if (depth < COLOR_DEPTHS[5]) {
-        color = "#660066";
+        color = "#cc000e";
     } else {
         color = "#330033";
     }
@@ -55,7 +55,7 @@ function getColor(depth) {
 // Create a function to determine the size of the marker based on the magnitude
 function getSize(magnitude) {
     // You can adjust the scaling factor as needed
-    return magnitude * 5;
+    return magnitude * 6;
 }
 
 // Create features from earthquake data
