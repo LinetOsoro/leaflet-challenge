@@ -38,4 +38,4 @@ https://earthquake.usgs.gov/fdsnws/event/1/
 
 https://stackoverflow.com/questions/40906118/is-it-possible-to-add-custom-html-to-leaflet-layer-groups-and-layers-control
 
-https://rgbcolorcode.com/color/669900 
+https://www.w3schools.com/colors/colors_picker.asp?colorhex=FFFFFF 
