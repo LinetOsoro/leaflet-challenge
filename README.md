@@ -1,10 +1,13 @@
+
+Link to the earthquake map: https://linetosoro.github.io/leaflet-challenge/
+
 The United States Geological Survey(USGS) is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. 
 
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. The task at hand is to develop a way to visualize USGS data that will allow better education to the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
 Use both HTML and JavaScript
 
-Part 1: Create the Earthquake Visualization 
+Create the Earthquake Visualization 
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
@@ -35,4 +38,4 @@ https://earthquake.usgs.gov/fdsnws/event/1/
 
 https://stackoverflow.com/questions/40906118/is-it-possible-to-add-custom-html-to-leaflet-layer-groups-and-layers-control
 
-https://www.colorhexa.com/ff0000-to-ffff00 
+https://rgbcolorcode.com/color/669900 
